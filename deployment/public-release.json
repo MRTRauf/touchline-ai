@@ -1,6 +1,6 @@
 {
   "edition": "public",
-  "portfolio_url": null,
-  "portfolio_url_verified": false,
-  "status": "Awaiting publication approval; no public URL assigned"
+  "portfolio_url": "https://mrtrauf.github.io/",
+  "portfolio_url_verified": true,
+  "status": "Portfolio and public source published; anonymous HTTP access verified"
 }

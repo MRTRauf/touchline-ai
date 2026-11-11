@@ -4,9 +4,9 @@
 
 Explore player performance, compare statistical profiles, and examine historical forecasting evidence.
 
-- Dashboard: https://touchline-ai.streamlit.app/ (owner-reported live; external access could not be verified from the restricted build environment).
-- Portfolio: prepared for MRTRauf/MRTRauf.github.io; publication and anonymous access remain unverified.
-- Curated public source: prepared for MRTRauf/touchline-ai; the research repository and historical Git remain private.
+- Dashboard: https://touchline-ai.streamlit.app/ (anonymous HTTP access verified).
+- Portfolio: [mrtrauf.github.io](https://mrtrauf.github.io/) — published and anonymous HTTP access verified.
+- Curated public source: [MRTRauf/touchline-ai](https://github.com/MRTRauf/touchline-ai); the research repository and historical Git remain private.
 
 ## Scouting workflow
 
