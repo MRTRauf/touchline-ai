@@ -4,7 +4,7 @@
 
 Explore player performance, compare statistical profiles, and examine historical forecasting evidence.
 
-- Dashboard: https://touchline-ai.streamlit.app/ (anonymous HTTP access verified).
+- Dashboard: https://touchline-ai.streamlit.app/ (owner-supplied address; anonymous browser access currently shows access denied).
 - Portfolio: [mrtrauf.github.io](https://mrtrauf.github.io/) — published and anonymous HTTP access verified.
 - Curated public source: [MRTRauf/touchline-ai](https://github.com/MRTRauf/touchline-ai); the research repository and historical Git remain private.
 
@@ -48,7 +48,7 @@ python3.12 -m venv .venv
 
 On Windows PowerShell, create the environment with `py -3.12 -m venv .venv` and replace `.venv/bin/python` with `.venv\Scripts\python.exe`.
 
-See the edition-specific deployment documentation before running: the private research edition retains the verified release; the curated public source edition intentionally omits the dataset and QA overlay pending explicit public-GitHub data redistribution clearance. Without them the public app displays a safe unavailable-data message, not invented player data. The hosted demo is the available complete experience. Unit-test fixtures are synthetic test artifacts only, never a production fallback.
+See the edition-specific deployment documentation before running: the private research edition retains the verified release; the curated public source edition intentionally omits the dataset and QA overlay pending explicit public-GitHub data redistribution clearance. Without them the public app displays a safe unavailable-data message, not invented player data. The hosted demo is intended to provide the complete experience, but its owner must resolve anonymous app access before it is a verified public demo. Unit-test fixtures are synthetic test artifacts only, never a production fallback.
 
 ## Limits and rights
 
