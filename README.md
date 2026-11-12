@@ -6,7 +6,6 @@ Explore player performance, compare statistical profiles, and examine historical
 
 - Live demo: [Touchline AI on Streamlit](https://touchline-ai.streamlit.app/) — publicly accessible interactive scouting dashboard with historical player profiles.
 - Portfolio: [mrtrauf.github.io](https://mrtrauf.github.io/).
-- Public source: [MRTRauf/touchline-ai](https://github.com/MRTRauf/touchline-ai) — curated application source and documentation.
 
 ## Scouting workflow
 
