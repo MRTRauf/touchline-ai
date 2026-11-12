@@ -1,4 +1,4 @@
-# Touchline AI — Football Player Intelligence
+# Touchline AI - Football Player Intelligence
 
 **Independent football analytics. From performance data to better scouting questions.**
 
